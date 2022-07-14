@@ -12,7 +12,7 @@ import java.time.LocalDate;
 import java.time.ZoneId;
 
 @Service
-public class SaleServices {
+public class SaleService {
 
     @Autowired
     private SaleRepository repository;
